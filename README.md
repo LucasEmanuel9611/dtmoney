@@ -4,9 +4,10 @@ Dt Money
 ================================
 ## Chapter II Trilha React js Rocketseat
 
-<img src="/src/assets/HomeImg" alt="imgHome"/>
+<img src="https://github.com/LucasEmanuel9611/dtmoney/blob/master/src/assets/HomeImg.png" alt="imgHome"/>
+<img src="https://github.com/LucasEmanuel9611/dtmoney/blob/master/src/assets/ModalImg.png" alt="imgHome"/>
 
-### Aprendizados :
+### Aprendizados e tecnologias usados:
 
 * TypeScript
 * MirageJS
